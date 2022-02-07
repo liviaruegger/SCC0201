@@ -9,4 +9,4 @@ These are my assignments for the Introduction to Computer Science II course ([SC
 - [WAV file compressor](/tr02);
 - [Indexed search with a linked list](/ex03);
 - [Scheduler simulator](/tr03);
-- [Hash table with separate chaining](//tr04).
+- [Hash table with separate chaining](/tr04).
